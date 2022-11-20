@@ -1,1 +1,44 @@
-/* Write your CSS here! */
+
+body {
+  background-color:  #E5E5E5; 
+  color: #000000;
+  margin: 8px;
+  display: block;
+  width: 100%;
+  max-width: 1024px;
+  font-size: 22px;
+  line-height: 26px;
+  font-weight: 400;
+}
+
+#mainHeading {
+  color: red;  
+  text-align: center;
+}
+
+.funParagraph {
+  color: green;
+  font-weight: 700;
+}
+nav ul {
+	text-align: center;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+img {
+    width: 100%;
+}
+footer {
+    text-align: center;
+}
+.ingredients-list li {
+    padding: 0.5em;
+}
+p {
+    padding: 0.5em;
+}
